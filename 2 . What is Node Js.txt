@@ -1,0 +1,26 @@
+What is Node.js?
+Node.js a C++ application (CLI) which can understand and run JavaScript code outside of the browser. It provides a runtime environment built on Chrome's V8 JavaScript engine, enabling developers to execute JavaScript on the server side.
+What is Node.js Used For?
+• Web Servers and APIs
+• Command-Line Tools for example, (nom, TypeScript, Webpack, ESLint, Babel, Yarn, Create React App, Vue CLI, Angular CLI, Prettier, and more)
+•Internet of Things (IoT)
+
+
+
+--------------------------------------------------------------
+
+Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside of a web browser. It is built on the V8 JavaScript engine, which is the same engine that powers Google Chrome, and it enables JavaScript to be used for server-side scripting. This means that you can create server-side applications with JavaScript, which traditionally was only used for client-side tasks in the browser.
+
+Key Features of Node.js:
+- Event-Driven Architecture: Node.js operates on a non-blocking, event-driven architecture, which makes it efficient and suitable for I/O-heavy operations like handling multiple concurrent requests.
+- Asynchronous Programming: With Node.js, many operations, such as reading from a database or file system, are handled asynchronously, allowing the application to handle other tasks while waiting for these operations to complete.
+- Single-Threaded: Despite being single-threaded, Node.js uses non-blocking I/O calls, allowing it to support a large number of simultaneous connections with high throughput.
+- Package Management: Node.js comes with npm (Node Package Manager), a vast repository of open-source packages that can be easily installed and integrated into your project.
+
+Common Uses of Node.js:
+- Web Servers: Node.js is often used to build web servers that can handle numerous simultaneous requests efficiently.
+- APIs: It's commonly used to create RESTful APIs that serve data to client applications.
+- Real-Time Applications: Applications that require real-time updates, like chat applications, online gaming, and collaborative tools, are often built using Node.js.
+- Microservices: Node.js is a popular choice for developing microservices due to its lightweight and scalable nature.
+
+Node.js is especially popular in the development of full-stack applications, where the same language (JavaScript) is used for both the front-end and back-end, making the development process more seamless.
