@@ -1,0 +1,26 @@
+A brief history of Node.js :
+
+2009: Initial Release by Ryan Dahl
+
+ - Creator: Ryan Dahl introduced Node.js in 2009. He aimed to build a       lightweight, efficient system for building web applications that    could handle many connections simultaneously.
+ - Inspiration: Ryan Dahl was frustrated with the limitations of Apache    HTTP Server, particularly the way it handled multiple connections by    creating a separate thread for each request. He wanted a non-   blocking, event-driven architecture.
+ - First Version: Node.js was initially released with support for Linux    and MacOS, using Google's V8 JavaScript engine, which was chosen for    its high performance.
+
+2012: Support of Joyent Company
+
+ - Joyent Sponsorship: Joyent, a cloud infrastructure company, became    the corporate sponsor of Node.js, providing financial and    organizational support, which accelerated its development.
+
+2014-2015: Fork and Foundation
+ - io.js Fork: In 2014, due to disagreements over the pace and direction    of Node.js development, a group of developers forked Node.js to    create io.js. This fork was meant to offer faster development and    better collaboration with the community.
+   Node.js Foundation: In 2015, to resolve the fork and unify the    community, the Node.js Foundation was created under the Linux    Foundation. io.js and Node.js were merged back together, bringing in    the best features from both projects.
+
+2016-Present: Modern Node.js and LTS Releases
+
+ - Version 4.0 and LTS: The merger led to the release of Node.js version    4.0, marking the beginning of a more stable release cycle with Long-   Term Support (LTS) versions, which ensured more predictable and    stable updates.
+ - Rapid Growth: Node.js continued to evolve with the addition of    features like async/await, HTTP/2 support, and improvements to    performance and security. Its popularity grew, becoming one of the    most widely used platforms for server-side JavaScript.
+ - Node.js 14 (LTS): In 2020, Node.js 14 was released, including    features like optional chaining, nullish coalescing, and a new    implementation of the Streams API.
+
+Current State
+ - Ecosystem: Today, Node.js powers millions of websites and    applications, with a vast ecosystem of libraries and tools. It is    used by companies of all sizes and has become a key technology in    modern web development.
+ - Community: Node.js remains open-source and community-driven, with an    active community that continuously contributes to its growth and    development.
+Node.js has transformed the way JavaScript is used, making it a dominant force in backend development and enabling JavaScript developers to work on both client and server sides with a unified language.
